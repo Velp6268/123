@@ -1,0 +1,15 @@
+/Users/velp/Projects/Рекурсия/Рекурсия/bin/Release/net6.0/Рекурсия
+/Users/velp/Projects/Рекурсия/Рекурсия/bin/Release/net6.0/Рекурсия.deps.json
+/Users/velp/Projects/Рекурсия/Рекурсия/bin/Release/net6.0/Рекурсия.runtimeconfig.json
+/Users/velp/Projects/Рекурсия/Рекурсия/bin/Release/net6.0/Рекурсия.dll
+/Users/velp/Projects/Рекурсия/Рекурсия/bin/Release/net6.0/Рекурсия.pdb
+/Users/velp/Projects/Рекурсия/Рекурсия/obj/Release/net6.0/Рекурсия.csproj.AssemblyReference.cache
+/Users/velp/Projects/Рекурсия/Рекурсия/obj/Release/net6.0/Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+/Users/velp/Projects/Рекурсия/Рекурсия/obj/Release/net6.0/Рекурсия.AssemblyInfoInputs.cache
+/Users/velp/Projects/Рекурсия/Рекурсия/obj/Release/net6.0/Рекурсия.AssemblyInfo.cs
+/Users/velp/Projects/Рекурсия/Рекурсия/obj/Release/net6.0/Рекурсия.csproj.CoreCompileInputs.cache
+/Users/velp/Projects/Рекурсия/Рекурсия/obj/Release/net6.0/Рекурсия.dll
+/Users/velp/Projects/Рекурсия/Рекурсия/obj/Release/net6.0/refint/Рекурсия.dll
+/Users/velp/Projects/Рекурсия/Рекурсия/obj/Release/net6.0/Рекурсия.pdb
+/Users/velp/Projects/Рекурсия/Рекурсия/obj/Release/net6.0/Рекурсия.genruntimeconfig.cache
+/Users/velp/Projects/Рекурсия/Рекурсия/obj/Release/net6.0/ref/Рекурсия.dll
